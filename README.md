@@ -6,7 +6,7 @@ Hello I'm Ferdian
 
 # 💻 Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=traferdi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=traferdi&theme=dark&hide_border=false)<br/>
 
