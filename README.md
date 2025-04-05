@@ -9,7 +9,7 @@ Hello I'm Ferdian
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=traferdi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=traferdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=traferdi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/traferdi/traferdi/output/github-snake-dark.svg" />
